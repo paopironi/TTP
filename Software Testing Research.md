@@ -5,7 +5,7 @@
     Software testing is the process of verifying and validating that a software application is working correctly, securely and efficiently according to its specific requirements.
 
 -   ## What are the dangers of untested software?
-    Software released without testing is more likely to include flaws or vulnerabilities that will make it malfunction. This can have repercussions such as:
+    Software released without testing is more likely to include flaws or vulnerabilities that will make it malfunction. This can have ripercussions such as:
     -   Loss of customer confidence and satisfaction and reputational harm, with consequent loss of business.
     -   Increases support expenses as the customers seek assistance with problems with the product.
     -   Data loss and security flaws: software flaws could provide unauthorized access to private information and data loss.
@@ -28,3 +28,11 @@
         -   <u>Performance Testing:</u> focuses on metrics such as loading speed, memory usage, response time. It ensures that the application runs smoothly and meets performance expectations.
         -   <u>Visual Testing:</u> it ensures that the application's appearance is consistent across devices and browsers by checking things layout, fonts, color and positioning of UI elements.
         -   <u>Scalability Testing:</u> evaluates how well the application can grow to accomodate more users, data or transactions.
+
+## References
+
+What is Software Testing? Available at (https://www.geeksforgeeks.org/software-testing/software-testing-basics/) (Accessed 27 September 2025).
+
+What is Software Testing? A Informative Guide. Available at (https://tsg-training.co.uk/blog/what-is-software-testing-and-what-is-certification/) (Accessed 27 September 2025).
+
+Differences between Functional and Non Functional Testing. Available at (https://www.browserstack.com/guide/functional-vs-non-functional-testing/) (Accessed 27 September 2025).
